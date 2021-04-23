@@ -1,1 +1,5 @@
-B22 learning Git
+
+
+Way we made first commit
+hi
+hello
